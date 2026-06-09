@@ -591,15 +591,15 @@ MIN_ROAD_RATIO = 0.002
         <sub>Role / Specialization</sub>
       </td>
       <td align="center">
-        <a href="mailto:contributor1@email.com">contributor1@email.com</a>
+        <a href="mailto:shrut.patil@vit.edu.in">shrut.patil@vit.edu.in</a>
       </td>
       <td align="center">
-        <a href="https://linkedin.com/in/contributor1-linkedin">
+        <a href="https://www.linkedin.com/in/shrutmpatil/">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/contributor1-github">
+        <a href="https://github.com/shrutmpatil">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
@@ -610,7 +610,7 @@ MIN_ROAD_RATIO = 0.002
         <sub>Role / Specialization</sub>
       </td>
       <td align="center">
-        <a href="mailto:contributor2@email.com">contributor2@email.com</a>
+        <a href="mailto:siddhi.lad@vit.edu.in">siddhi.lad@vit.edu.in</a>
       </td>
       <td align="center">
         <a href="https://linkedin.com/in/contributor2-linkedin">
@@ -618,7 +618,7 @@ MIN_ROAD_RATIO = 0.002
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/contributor2-github">
+        <a href="https://github.com/siddhi-lad">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
@@ -626,7 +626,6 @@ MIN_ROAD_RATIO = 0.002
   </tbody>
 </table>
 
-> **How to update contributor info:** Replace the placeholder names, email addresses, LinkedIn handles, and GitHub usernames in the table above. Each badge is a clickable link — just swap the URL in `href=`.
 
 ---
 
