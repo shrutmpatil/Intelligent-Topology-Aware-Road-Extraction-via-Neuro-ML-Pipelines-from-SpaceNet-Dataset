@@ -582,9 +582,17 @@ This project utilizes the **SpaceNet 3 Road Network Detection Dataset**, availab
 - Kaggle Dataset: :contentReference[oaicite:1]{index=1}
 - Official SpaceNet Dataset: :contentReference[oaicite:2]{index=2}
 
-### Reference
+### Dataset
 
-Van Etten, A., Lindenbaum, D., & Bacastow, T. M. (2018). *SpaceNet: A Remote Sensing Dataset and Challenge Series*. arXiv:1807.01232. :contentReference[oaicite:3]{index=3}
+Download the dataset from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/ollibolli/spacenet-3
+
+## Reference
+
+Van Etten, A., Lindenbaum, D., & Bacastow, T. M. (2018).
+*SpaceNet: A Remote Sensing Dataset and Challenge Series*.
+arXiv:1807.01232.
 
 ```bibtex
 @article{vanetten2018spacenet,
@@ -593,12 +601,8 @@ Van Etten, A., Lindenbaum, D., & Bacastow, T. M. (2018). *SpaceNet: A Remote Sen
   journal={arXiv preprint arXiv:1807.01232},
   year={2018}
 }
+```
 
-### Dataset
-
-Download the dataset from Kaggle:
-
-🔗 https://www.kaggle.com/datasets/ollibolli/spacenet-3
 ---
 
 ## 👥 Contributors
