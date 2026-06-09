@@ -587,8 +587,7 @@ MIN_ROAD_RATIO = 0.002
   <tbody>
     <tr>
       <td align="center">
-        <b>Contributor 1</b><br/>
-        <sub>Role / Specialization</sub>
+        <b>Shrut Mahendra Patil</b><br/>
       </td>
       <td align="center">
         <a href="mailto:shrut.patil@vit.edu.in">shrut.patil@vit.edu.in</a>
@@ -606,8 +605,7 @@ MIN_ROAD_RATIO = 0.002
     </tr>
     <tr>
       <td align="center">
-        <b>Contributor 2</b><br/>
-        <sub>Role / Specialization</sub>
+        <b>Siddhi Virag Lad</b><br/>
       </td>
       <td align="center">
         <a href="mailto:siddhi.lad@vit.edu.in">siddhi.lad@vit.edu.in</a>
