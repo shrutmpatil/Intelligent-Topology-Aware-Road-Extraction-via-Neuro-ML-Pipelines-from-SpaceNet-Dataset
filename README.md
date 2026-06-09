@@ -573,6 +573,34 @@ MIN_ROAD_RATIO = 0.002
 
 ---
 
+## Dataset Citation
+
+This project utilizes the **SpaceNet 3 Road Network Detection Dataset**, available through Kaggle and originally released as part of the SpaceNet Challenge series for automated road extraction from high-resolution satellite imagery. The dataset contains satellite images and corresponding road centerline annotations across multiple cities, including Las Vegas, Paris, Shanghai, and Khartoum. It provides more than 8,000 km of manually labeled road networks for training and evaluating road extraction models. :contentReference[oaicite:0]{index=0}
+
+### Dataset Source
+
+- Kaggle Dataset: :contentReference[oaicite:1]{index=1}
+- Official SpaceNet Dataset: :contentReference[oaicite:2]{index=2}
+
+### Reference
+
+Van Etten, A., Lindenbaum, D., & Bacastow, T. M. (2018). *SpaceNet: A Remote Sensing Dataset and Challenge Series*. arXiv:1807.01232. :contentReference[oaicite:3]{index=3}
+
+```bibtex
+@article{vanetten2018spacenet,
+  title={SpaceNet: A Remote Sensing Dataset and Challenge Series},
+  author={Van Etten, Adam and Lindenbaum, Dave and Bacastow, Todd M.},
+  journal={arXiv preprint arXiv:1807.01232},
+  year={2018}
+}
+
+### Dataset
+
+Download the dataset from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/ollibolli/spacenet-3
+---
+
 ## 👥 Contributors
 
 <table>
